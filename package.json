@@ -4,7 +4,7 @@
 	"description": "Monospace theme for VSCode",
 	"publisher": "SpaceBox",
 	"license": "MIT",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.83.0"
 	},
@@ -47,7 +47,7 @@
 		],
 		"iconThemes": [
 			{
-				"id": "monospace-file-icon-theme",
+				"id": "monospace-idx-file-icon-theme",
 				"label": "Monospace IDX File Icon Theme",
 				"path": "./icons/monospace-idx-file-icon-theme.json"
 			}
