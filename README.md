@@ -6,7 +6,7 @@
 <p align="center">
     This is a clean and minimalistic Visual Studio Code theme that features subtle yet striking purple accents. 
     <br />
-    The theme is a modified version of the theme used in <a href="https://idx.dev">IDX</a>.
+    The theme is used in IDX Project.
 </p>
 
 ## Usage
