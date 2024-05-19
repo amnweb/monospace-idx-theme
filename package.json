@@ -1,0 +1,51 @@
+{
+	"name": "monospace-theme",
+	"displayName": "Monospace Theme",
+	"description": "Monospace theme for VSCode",
+    "publisher": "SpaceBox",
+    "license": "MIT",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.83.0"
+	},
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/amnweb/Monospace-Theme"
+	},    
+	"categories": [
+		"Themes"
+	],
+    "keywords": [
+        "idx",
+        "theme",
+        "dark",
+        "light",
+        "google",
+        "purple",
+        "monospace",
+        "monospace-theme",
+        "idx-theme"
+      ],
+      "icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monospace Light",
+				"uiTheme": "vs",
+				"path": "./themes/monospace-light.json"
+			},
+			{
+				"label": "Monospace Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monospace-dark.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "monospace-file-icon-theme",
+				"label": "Monospace File Icon Theme",
+				"path": "./icons/monospace-file-icon-theme.json"
+			}
+		]
+	}
+}
