@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/amnweb/monospace-idx-theme/raw/main/images/icon.png" width="128" />
-    <h2 align="center">Monospace Theme for VSCode</h2>
+    <h2 align="center">Monospace IDX Theme for VSCode</h2>
 </p>
 
 <p align="center">
