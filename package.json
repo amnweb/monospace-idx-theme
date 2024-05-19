@@ -1,33 +1,33 @@
 {
-    "name": "monospace-idx-theme",
-    "displayName": "Monospace IDX Theme",
-    "description": "Monospace theme for VSCode",
-    "publisher": "SpaceBox",
-    "license": "MIT",
+	"name": "monospace-idx-theme",
+	"displayName": "Monospace IDX Theme",
+	"description": "Monospace theme for VSCode",
+	"publisher": "SpaceBox",
+	"license": "MIT",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.83.0"
 	},
-    "repository": {
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/amnweb/monospace-idx-theme"
-	},    
+	},
 	"categories": [
 		"Themes"
 	],
-    "keywords": [
-        "idx",
-        "theme",
-        "dark",
-        "light",
-        "google",
-        "purple",
-        "monospace",
-        "monospace-theme",
-        "monospace-idx-theme",
-        "idx-theme"
-      ],
-      "icon": "images/icon.png",
+	"keywords": [
+		"idx",
+		"theme",
+		"dark",
+		"light",
+		"google",
+		"purple",
+		"monospace",
+		"monospace-theme",
+		"monospace-idx-theme",
+		"idx-theme"
+	],
+	"icon": "images/icon.png",
 	"contributes": {
 		"themes": [
 			{
