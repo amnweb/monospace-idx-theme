@@ -4,7 +4,7 @@
     "description": "Monospace theme for VSCode",
     "publisher": "SpaceBox",
     "license": "MIT",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.83.0"
 	},
@@ -24,6 +24,7 @@
         "purple",
         "monospace",
         "monospace-theme",
+        "monospace-idx-theme",
         "idx-theme"
       ],
       "icon": "images/icon.png",
