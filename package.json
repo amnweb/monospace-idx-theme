@@ -4,7 +4,7 @@
 	"description": "Monospace theme for VSCode",
 	"publisher": "SpaceBox",
 	"license": "MIT",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.83.0"
 	},
@@ -27,6 +27,10 @@
 		"monospace-idx-theme",
 		"idx-theme"
 	],
+    "galleryBanner": {
+		"color": "#151f2b",
+		"theme": "dark"
+	},
 	"icon": "images/icon.png",
 	"contributes": {
 		"themes": [
