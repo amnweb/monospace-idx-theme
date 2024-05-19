@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/amnweb/Monospace-Theme/raw/main/images/icon.png" width="128" />
+    <img src="https://github.com/amnweb/monospace-idx-theme/raw/main/images/icon.png" width="128" />
     <h2 align="center">Monospace Theme for VSCode</h2>
 </p>
 
@@ -20,8 +20,8 @@
 
 ### Dark
 
-![Dark](https://github.com/amnweb/Monospace-Theme/raw/main/images/preview-dark.png)
+![Dark](https://github.com/amnweb/monospace-idx-theme/raw/main/images/preview-dark.png)
 
 ### Light
 
-![Light](https://github.com/amnweb/Monospace-Theme/raw/main/images/preview-light.png)
+![Light](https://github.com/amnweb/monospace-idx-theme/raw/main/images/preview-light.png)
