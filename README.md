@@ -12,7 +12,7 @@
 ## Usage
 
 1. Open VSCode
-2. Search for `Monospace Theme` in Extensions
+2. Search for `Monospace IDX Theme` in Extensions or click [here](https://marketplace.visualstudio.com/items?itemName=SpaceBox.monospace-idx-theme)
 3. Install the theme and choose your variant in `Preferences > Color Theme`
 4. Optionally enable the included icon theme in `Preferences > File Icon Theme`
 
