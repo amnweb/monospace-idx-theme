@@ -25,3 +25,31 @@
 ### Light
 
 ![Light](https://github.com/amnweb/monospace-idx-theme/raw/main/images/preview-light.png)
+
+
+### Terminal Theme
+```json
+        {
+            "background": "#10151D",
+            "black": "#738295",
+            "blue": "#708FFF",
+            "brightBlack": "#8B98A9",
+            "brightBlue": "#A2B6FF",
+            "brightCyan": "#71C2EE",
+            "brightGreen": "#66CE98",
+            "brightPurple": "#C8AAFF",
+            "brightRed": "#FC8F8E",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFC26E",
+            "cursorColor": "#C8AAFF",
+            "cyan": "#25A6E9",
+            "foreground": "#A4AFBD",
+            "green": "#00FF9C",
+            "name": "IDX",
+            "purple": "#A87FFB",
+            "red": "#F76769",
+            "selectionBackground": "#FFFFFF",
+            "white": "#C7C7C7",
+            "yellow": "#FFA23E"
+        }
+```        
