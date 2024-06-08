@@ -120,7 +120,7 @@
         "list.activeSelectionBackground": "#293444ff",
         "list.activeSelectionForeground": "#d9dfe7ff",
         "list.errorForeground": "#fa7b7cff",
-        "list.focusBackground": "#340099ff",
+        "list.focusBackground": "#1f2939ff",
         "list.hoverBackground": "#1f2939ff",
         "list.hoverForeground": "#d9dfe7ff",
         "list.inactiveFocusBackground": "#1e252fff",
