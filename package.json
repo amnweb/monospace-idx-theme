@@ -4,7 +4,7 @@
 	"description": "Monospace theme for VSCode",
 	"publisher": "SpaceBox",
 	"license": "MIT",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"engines": {
 		"vscode": "^1.83.0"
 	},
